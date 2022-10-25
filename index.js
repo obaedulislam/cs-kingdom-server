@@ -17,9 +17,10 @@ app.get('/courses', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = courses.find(course => course.id === id);
+    const selectedCourse = courses.find(c => c.id = id);
     res.send(selectedCourse);
 })
+
 
 
 //Test server running port 
