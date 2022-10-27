@@ -24,6 +24,13 @@ app.get('/course/:id', (req, res) => {
     console.log(selectedCourse);
 })
 
+app.get('/premium-access/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.find(c => c.id === id);
+    res.send(selectedCourse);
+    console.log(selectedCourse);
+})
+
 
 
 //Test server running port 
