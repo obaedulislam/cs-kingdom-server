@@ -3,120 +3,208 @@
       "id": "1",
       "course_name": "Artificial Intelligence",
       "rating": { "number": 4.7, "badge": "1783 rating" },
+      "price": "902",
+      "total_enroll":"6721",
       "title": "Artificial Intelligence for Robotics",
       "instructor": {
         "name": "Joe Rogan",
         "last_update": "04-01-2022",
-        "img": "https://i.ibb.co/YZPQH6H/creative2.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-1.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/artificial-inteligence.jpg",
-      "description": "Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams. This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.This course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!"
+      "description": "Learn how to program all the major systems of a robotic car from the leader of Google and Stanford's autonomous driving teams. This class will teach you basic methods in Artificial Intelligence, including: probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics. Extensive programming examples and assignments will apply these methods in the context of building self-driving cars.This course is offered as part of the Georgia Tech Masters in Computer Science. The updated course includes a final project, where you must chase a runaway robot that is trying to escape!",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "2",
       "course_name": "Neural Networks",
       "rating": { "number": 4.6, "badge": "1203 rating" },
+      "price": "72",
+      "total_enroll":"721",
       "title": "Neural Networks and Deep Learning",
       "instructor": {
         "name": "Stanford University",
         "last_update": "25-11-2020",
-        "img": "https://i.ibb.co/B3K9f67/creative3.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-2.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/neural-networks.jpg",
-      "description": "In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI."
+      "description": "In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.The Deep Learning Specialization is our foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology. It provides a pathway for you to gain the knowledge and skills to apply machine learning to your work, level up your technical career, and take the definitive step in the world of AI.",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "3",
       "course_name": "Algorithms & Analysis",
       "rating": { "number": 4.6, "badge": "2394 rating" },
-
+      "price": "100",
+      "total_enroll":"4921",
       "title": "Introduction to algorithms and analysis",
       "instructor": {
         "name": "Barbara Oakley",
         "last_update": "14-01-2021",
-        "img": "https://i.ibb.co/fG8nkCx/creative1.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-3.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/algorithms.jpg",
-      "description": "This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms. All the features of this course are available for free.  It does not offer a certificate upon completion."
+      "description": "This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations. Part I covers elementary data structures, sorting, and searching algorithms. Part II focuses on graph- and string-processing algorithms. All the features of this course are available for free.  It does not offer a certificate upon completion.",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "4",
       "course_name":"Python for Everybody",
       "rating": { "number": 4.7, "badge": "1783 rating" },
+      "price": "89",
+      "total_enroll":"531",
       "title": "Python for Everybody Specialization",
       "instructor": {
         "name": "Joe Rogan",
         "last_update": "04-01-2022",
-        "img": "https://i.ibb.co/YZPQH6H/creative2.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-1.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/python-for-everybody.jpg",
-      "description": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization."
+      "description": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "5",
       "course_name": "Google Data Analytics",
       "rating": { "number": 4.5, "badge": "2394 rating" },
+      "price": "478",
+      "total_enroll":"3789",
       "title": "Google Data Analytics Professional Certificate",
       "instructor": {
         "name": "Barbara Oakley",
         "last_update": "14-01-2021",
-        "img": "https://i.ibb.co/fG8nkCx/creative1.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-2.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/data-analytics.jpg",
-      "description": "Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job. Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau). Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming. Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms "
+      "description": "Gain an immersive understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job. Learn key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, R programming, Tableau). Understand how to clean and organize data for analysis, and complete analysis and calculations using spreadsheets, SQL and R programming. Learn how to visualize and present data findings in dashboards, presentations and commonly used visualization platforms ",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "6",
       "course_name": "CS50's Introduction",
       "rating": { "number": 4.7, "badge": "1783 rating" },
-
+      "price": "112",
       "title": "CS50's Introduction to Computer Science",
+      "total_enroll":"1721",
       "instructor": {
         "name": "Joe Rogan",
         "last_update": "04-01-2022",
-        "img": "https://i.ibb.co/YZPQH6H/creative2.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-3.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/cs-50.jpg",
-      "description": "This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule. HarvardX requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. HarvardX will take appropriate corrective action in response to violations of the edX honor code, which may include dismissal from the HarvardX course; revocation of any certificates received for the HarvardX course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations. Enrollees who are taking HarvardX courses as part of another program will also be governed by the academic policies of those programs."
+      "description": "This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets inspired by real-world domains of biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x , CS50, is Harvard's largest course.Students who earn a satisfactory score on 9 problem sets (i.e., programming assignments) and a final project are eligible for a certificate. This is a self-paced course–you may take CS50x on your own schedule. HarvardX requires individuals who enroll in its courses on edX to abide by the terms of the edX honor code. HarvardX will take appropriate corrective action in response to violations of the edX honor code, which may include dismissal from the HarvardX course; revocation of any certificates received for the HarvardX course; or other remedies as circumstances warrant. No refunds will be issued in the case of corrective action for such violations. Enrollees who are taking HarvardX courses as part of another program will also be governed by the academic policies of those programs.",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "7",
       "course_name": "Python Data Structures",
       "rating": { "number": 4.6, "badge": "1203 rating" },
+      "price": "92",
+      "total_enroll":"6281",
       "title": " The core data structures of the Python programming language",
       "instructor": {
         "name": "Joe Biden",
         "last_update": "25-11-2020",
-        "img": "https://i.ibb.co/B3K9f67/creative3.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-1.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/data-structure.jpg",
-      "description": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Everybody”.  This course covers Python 3."
+      "description": "This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Everybody”.  This course covers Python 3.",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "8",
       "course_name": "Data Science & Python",
       "rating": { "number": 4.5, "badge": "2394 rating" },
+      "price": "112",
+      "total_enroll":"6721",
       "title": "Applied Data Science with Python Specialization",
       "instructor": {
         "name": "Barbara Oakley",
         "last_update": "14-01-2021",
-        "img": "https://i.ibb.co/fG8nkCx/creative1.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-2.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/data-science.jpg",
-      "description": "The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization.  After completing those, courses 4 and 5 can be taken in any order.  All 5 are required to earn a certificate. "
+      "description": "The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data. Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization.  After completing those, courses 4 and 5 can be taken in any order.  All 5 are required to earn a certificate. ",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     },
     {
       "id": "9",
       "course_name":"Java Programming ",
       "rating": { "number": 4.6, "badge": "1203 rating" },
+      "price": "422",
+      "total_enroll":"2781",
       "title": "Java Programming and Software Engineering",
       "instructor": {
         "name": "Joe Biden",
         "last_update": "25-11-2020",
-        "img": "https://i.ibb.co/B3K9f67/creative3.png"
+        "img": "https://obaedulislam.com/cs-kingdom/team-3.png"
       },
       "image_url": "https://obaedulislam.com/cs-kingdom/java.jpg",
-      "description": "Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs. Centered around projects, this Specialization will help you create a portfolio of work to demonstrate your new programming skills. In the capstone you will create a recommender engine similar to those used by Netflix or Amazon. Additional projects in your portfolio will include:an interactive webpage that applies filters to images, an analysis of CSV data files, an encryption program, and a predictive text generator."
+      "description": "Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs. Centered around projects, this Specialization will help you create a portfolio of work to demonstrate your new programming skills. In the capstone you will create a recommender engine similar to those used by Netflix or Amazon. Additional projects in your portfolio will include:an interactive webpage that applies filters to images, an analysis of CSV data files, an encryption program, and a predictive text generator.",
+      "course_features": [
+            "Create real-world native apps using React Native",
+            "Understand the terminology and concepts of Redux",
+            "Get up to speed with React design principles and methodologies",
+            "Make truly reusable components that look great",
+            "Prototype and deploy your own applications to the Apple and Google Play Stores",
+            "Discover mobile design patterns used by experienced engineers"
+        ]
     }
      
   ]
